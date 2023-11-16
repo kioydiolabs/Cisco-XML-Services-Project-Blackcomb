@@ -2,15 +2,11 @@
   <Title>Applications</Title>
   <Prompt>Select a service :</Prompt>
  <MenuItem>
-  <Name>TV Control</Name>
-  <URL>http://XXX.XXX.XXX.XXX/turn-off.xml</URL>
+  <Name>Stock Price (by symbol)</Name>
+  <URL>http://XXX.XXX.XXX.XXX/stock.xml</URL>
  </MenuItem>
  <MenuItem>
-   <Name>CCTV</Name>
-   <URL>http://XXX.XXX.XXX.XXX/cctv/cctv.xml</URL>
- </MenuItem>
- <MenuItem>
-  <Name>Xmas Countdown</Name>
+  <Name>XMAS Countdown</Name>
   <URL>http://XXX.XXX.XXX.XXX/xmas.xml</URL>
  </MenuItem>
 </CiscoIPPhoneMenu>
