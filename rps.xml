@@ -1,0 +1,25 @@
+<CiscoIPPhoneText>
+<Title>Rock Paper Scissors</Title>
+<Prompt>Select one to play!</Prompt>
+<Text></Text>
+<SoftKeyItem>
+    <Name>Rock</Name>
+    <URL>http://192.168.1.236:5000/rps/?user_input=rock</URL>
+    <Position>1</Position>
+</SoftKeyItem>
+<SoftKeyItem>
+    <Name>Paper</Name>
+    <URL>http://192.168.1.236:5000/rps/?user_input=paper</URL>
+    <Position>2</Position>
+</SoftKeyItem>
+<SoftKeyItem>
+    <Name>Scissors</Name>
+    <URL>http://192.168.1.236:5000/rps/?user_input=scissors</URL>
+    <Position>3</Position>
+</SoftKeyItem>
+<SoftKeyItem>
+    <Name>Exit</Name>
+    <URL>SoftKey:Exit</URL>
+    <Position>4</Position>
+</SoftKeyItem>
+</CiscoIPPhoneText>

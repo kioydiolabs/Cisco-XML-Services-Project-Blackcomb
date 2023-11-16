@@ -1,0 +1,12 @@
+<CiscoIPPhoneMenu>
+  <Title>Applications</Title>
+  <Prompt>Select a service :</Prompt>
+ <MenuItem>
+  <Name>Weather</Name>
+  <URL>http://192.168.1.236/geocode_weather.xml</URL>
+ </MenuItem>
+ <MenuItem>
+   <Name>Air Quality</Name>
+   <URL>http://192.168.1.236/geocode_aqi.xml</URL>
+ </MenuItem>
+</CiscoIPPhoneMenu>

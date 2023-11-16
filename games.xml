@@ -1,0 +1,8 @@
+<CiscoIPPhoneMenu>
+  <Title>Applications</Title>
+  <Prompt>Select a service :</Prompt>
+ <MenuItem>
+  <Name>Rock Paper Scissors</Name>
+  <URL>http://192.168.1.236/rps.xml</URL>
+ </MenuItem>
+</CiscoIPPhoneMenu>

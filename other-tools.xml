@@ -1,0 +1,16 @@
+<CiscoIPPhoneMenu>
+  <Title>Applications</Title>
+  <Prompt>Select a service :</Prompt>
+ <MenuItem>
+  <Name>TV Control</Name>
+  <URL>http://192.168.1.236/turn-off.xml</URL>
+ </MenuItem>
+ <MenuItem>
+   <Name>CCTV</Name>
+   <URL>http://192.168.1.236/cctv/cctv.xml</URL>
+ </MenuItem>
+ <MenuItem>
+  <Name>Xmas Countdown</Name>
+  <URL>http://192.168.1.236/xmas.xml</URL>
+ </MenuItem>
+</CiscoIPPhoneMenu>

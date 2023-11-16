@@ -1,0 +1,20 @@
+<CiscoIPPhoneMenu>
+  <Title>KIOYDIOLABS.org | CXSPBPR</Title>
+  <Prompt>Select an application :</Prompt>
+ <MenuItem>
+  <Name>Environmental</Name>
+  <URL>http://192.168.1.236/environmental.xml</URL>
+ </MenuItem>
+ <MenuItem>
+  <Name>OASA Services</Name>
+  <URL>http://192.168.1.236/oasa/oasa.xml</URL>
+ </MenuItem>
+ <MenuItem>
+  <Name>Other Tools</Name>
+  <URL>http://192.168.1.236/other-tools.xml</URL>
+ </MenuItem>
+ <MenuItem>
+  <Name>Games</Name>
+  <URL>http://192.168.1.236/games.xml</URL>
+ </MenuItem>
+</CiscoIPPhoneMenu>

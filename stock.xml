@@ -1,0 +1,10 @@
+<CiscoIPPhoneInput>
+    <Title>Find stock price</Title>
+    <Prompt>Prompt text goes here</Prompt>
+    <URL>http://192.168.1.236:5000/stock-price/</URL>
+    <InputItem>
+      <DisplayName>Symbol </DisplayName>
+      <QueryStringParam>symbol</QueryStringParam>
+      <InputFlags>A</InputFlags>
+    </InputItem>
+</CiscoIPPhoneInput>
