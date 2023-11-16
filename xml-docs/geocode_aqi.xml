@@ -1,7 +1,7 @@
 <CiscoIPPhoneInput>
     <Title>Air Quality</Title>
     <Prompt>Please enter a name of a city</Prompt>
-    <URL>http://192.168.1.236:5000/geocode-aqi/</URL>
+    <URL>http://XXX.XXX.XXX.XXX:5000/geocode-aqi/</URL>
     <InputItem>
       <DisplayName>Name of city </DisplayName>
       <QueryStringParam>name</QueryStringParam>

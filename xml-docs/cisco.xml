@@ -3,18 +3,18 @@
   <Prompt>Select an application :</Prompt>
  <MenuItem>
   <Name>Environmental</Name>
-  <URL>http://192.168.1.236/environmental.xml</URL>
+  <URL>http://XXX.XXX.XXX.XXX/environmental.xml</URL>
  </MenuItem>
  <MenuItem>
   <Name>OASA Services</Name>
-  <URL>http://192.168.1.236/oasa/oasa.xml</URL>
+  <URL>http://XXX.XXX.XXX.XXX/oasa/oasa.xml</URL>
  </MenuItem>
  <MenuItem>
   <Name>Other Tools</Name>
-  <URL>http://192.168.1.236/other-tools.xml</URL>
+  <URL>http://XXX.XXX.XXX.XXX/other-tools.xml</URL>
  </MenuItem>
  <MenuItem>
   <Name>Games</Name>
-  <URL>http://192.168.1.236/games.xml</URL>
+  <URL>http://XXX.XXX.XXX.XXX/games.xml</URL>
  </MenuItem>
 </CiscoIPPhoneMenu>
