@@ -300,3 +300,5 @@ if __name__ == "__main__":
 #   to use in a corporate environment, you will have to create your own API key and pay accordingly.
 #   You can only use the API endpoints without an API key for personal purposes.
 #   In short : get an OpenMeteo API key if you are using this in a company
+heh
+#test
